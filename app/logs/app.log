@@ -1,0 +1,1148 @@
+2026-07-10 01:25:08,151 | INFO | __main__ | Starting Password Strength Checker application...
+2026-07-10 01:25:09,545 | INFO | app.core.analyzer | PasswordAnalyzer initialized with all components.
+2026-07-10 01:25:09,687 | INFO | app.ui.app_ui | AppUI initialized successfully.
+2026-07-10 01:25:15,712 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:15,714 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:15,921 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:15,921 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:16,110 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:16,111 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:18,097 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:18,098 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:18,371 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:18,371 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:18,690 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:18,704 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:20,815 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:20,816 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:21,457 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:21,457 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:21,545 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:21,546 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:21,797 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:21,797 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:22,323 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:22,323 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:24,059 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:24,060 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:28,486 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:28,487 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:28,526 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:28,526 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:28,600 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:28,601 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:28,873 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:28,874 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:28,930 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:28,931 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:28,962 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:28,963 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:28,975 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:28,975 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:29,053 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:29,053 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:29,089 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:29,090 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:29,230 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:29,231 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:29,299 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:29,304 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:29,322 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:29,323 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:29,371 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:29,372 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:29,418 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:29,419 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:29,446 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:29,447 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:29,462 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:29,463 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:29,493 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:29,493 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:29,542 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:29,544 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:29,790 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:29,791 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:29,943 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:29,944 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:30,104 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:30,105 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:30,127 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:30,128 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:30,155 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:30,155 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:30,242 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:30,242 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:30,371 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:30,371 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:30,383 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:30,383 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:30,502 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:30,502 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:31,179 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:31,185 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:31,195 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:31,200 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:31,261 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:31,267 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:31,286 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:31,307 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:40,134 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:40,134 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:40,149 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:40,149 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:40,557 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:40,557 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:40,835 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:40,836 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:41,120 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:41,124 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:41,379 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:41,380 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:41,622 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:41,624 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:41,784 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:41,785 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:41,945 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:41,945 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:42,181 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:42,183 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:42,834 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:42,835 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:42,862 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:42,887 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:43,504 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:43,504 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:43,758 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:43,759 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:44,221 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:44,221 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:44,995 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:44,996 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:45,003 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:45,004 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:46,351 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:46,354 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:46,546 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:46,547 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:46,758 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:46,763 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:50,434 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:50,434 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:50,483 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:50,484 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:51,846 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:51,847 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:52,019 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:52,020 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:52,188 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:52,188 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:54,743 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:54,744 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:55,065 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:55,065 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:25:55,311 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:25:55,312 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:26:06,181 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:26:06,182 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:26:06,450 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:26:06,451 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:26:06,692 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:26:06,692 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:26:07,066 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:26:07,066 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:26:07,408 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:26:07,408 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:26:07,707 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:26:07,707 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:26:11,717 | INFO | __main__ | Application closed.
+2026-07-10 01:27:27,367 | INFO | __main__ | Starting Password Strength Checker application...
+2026-07-10 01:27:27,581 | INFO | app.core.analyzer | PasswordAnalyzer initialized with all components.
+2026-07-10 01:27:27,699 | INFO | app.ui.app_ui | AppUI initialized successfully.
+2026-07-10 01:29:41,131 | INFO | __main__ | Application closed.
+2026-07-10 01:30:03,692 | INFO | __main__ | Starting Password Strength Checker application...
+2026-07-10 01:30:03,789 | INFO | app.core.analyzer | PasswordAnalyzer initialized with all components.
+2026-07-10 01:30:03,883 | INFO | app.ui.app_ui | AppUI initialized successfully.
+2026-07-10 01:30:08,432 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:30:08,433 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:30:08,446 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:30:08,447 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:30:08,738 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:30:08,738 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:30:08,963 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:30:08,963 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:30:09,264 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:30:09,265 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:30:09,520 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:30:09,520 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:30:14,001 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:30:14,001 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:30:14,115 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:30:14,115 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:30:14,280 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:30:14,281 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:30:14,450 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:30:14,454 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:30:16,571 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:30:16,572 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:30:16,706 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:30:16,707 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:30:16,928 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:30:16,928 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:30:18,613 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:30:18,614 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:30:18,633 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:30:18,635 | INFO | app.core.analyzer | Password analysis completed successfully.
+2026-07-10 01:30:24,355 | INFO | __main__ | Application closed.
+2026-07-10 01:33:03,148 | INFO | __main__ | Starting Password Strength Checker application...
+2026-07-10 01:33:03,302 | INFO | app.core.analyzer | PasswordAnalyzer initialized with all components.
+2026-07-10 01:33:03,426 | INFO | app.ui.app_ui | AppUI initialized successfully.
+2026-07-10 01:33:06,457 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:07,065 | WARNING | app.security.pwned_passwords | Password found in a data breach 539 times.
+2026-07-10 01:33:07,069 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:07,084 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:07,662 | WARNING | app.security.pwned_passwords | Password found in a data breach 539 times.
+2026-07-10 01:33:07,675 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:07,729 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:08,311 | WARNING | app.security.pwned_passwords | Password found in a data breach 539 times.
+2026-07-10 01:33:08,318 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:08,345 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:08,983 | WARNING | app.security.pwned_passwords | Password found in a data breach 5 times.
+2026-07-10 01:33:08,992 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:09,035 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:09,791 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:09,799 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:09,853 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:10,591 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:10,593 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:10,606 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:11,161 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:11,168 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:11,179 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:11,790 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:11,792 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:11,801 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:12,308 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:12,310 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:12,314 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:13,071 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:13,073 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:13,081 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:13,819 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:13,825 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:13,837 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:14,625 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:14,627 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:14,639 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:15,528 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:15,530 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:15,536 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:16,550 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:16,555 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:16,574 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:17,442 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:17,445 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:17,457 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:18,538 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:18,540 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:18,549 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:19,470 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:19,472 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:19,479 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:20,084 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:20,086 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:20,097 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:20,754 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:20,758 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:20,768 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:21,394 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:21,397 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:21,409 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:22,003 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:22,005 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:22,013 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:22,509 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:22,512 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:22,805 | INFO | __main__ | Application closed.
+2026-07-10 01:33:27,884 | INFO | __main__ | Starting Password Strength Checker application...
+2026-07-10 01:33:27,971 | INFO | app.core.analyzer | PasswordAnalyzer initialized with all components.
+2026-07-10 01:33:28,124 | INFO | app.ui.app_ui | AppUI initialized successfully.
+2026-07-10 01:33:32,456 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:33,190 | WARNING | app.security.pwned_passwords | Password found in a data breach 185249 times.
+2026-07-10 01:33:33,193 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:33,207 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:33,755 | WARNING | app.security.pwned_passwords | Password found in a data breach 185249 times.
+2026-07-10 01:33:33,760 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:34,956 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:36,399 | WARNING | app.security.pwned_passwords | Password found in a data breach 15539 times.
+2026-07-10 01:33:36,401 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:36,407 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:36,935 | WARNING | app.security.pwned_passwords | Password found in a data breach 1357 times.
+2026-07-10 01:33:36,937 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:39,011 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:39,565 | WARNING | app.security.pwned_passwords | Password found in a data breach 167 times.
+2026-07-10 01:33:39,567 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:39,576 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:40,019 | WARNING | app.security.pwned_passwords | Password found in a data breach 236 times.
+2026-07-10 01:33:40,022 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:40,031 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:40,452 | WARNING | app.security.pwned_passwords | Password found in a data breach 2 times.
+2026-07-10 01:33:40,454 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:40,459 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:40,922 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:40,923 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:40,928 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:41,441 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:41,443 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:41,450 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:41,929 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:41,931 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:44,220 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:44,660 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:44,662 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:44,672 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:33:45,139 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:33:45,141 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:33:53,078 | INFO | __main__ | Application closed.
+2026-07-10 01:35:29,909 | INFO | __main__ | Starting Password Strength Checker application...
+2026-07-10 01:35:30,054 | INFO | app.core.analyzer | PasswordAnalyzer initialized with all components.
+2026-07-10 01:35:30,197 | INFO | app.ui.app_ui | AppUI initialized successfully.
+2026-07-10 01:38:25,397 | INFO | __main__ | Application closed.
+2026-07-10 01:38:45,283 | INFO | __main__ | Starting Password Strength Checker application...
+2026-07-10 01:38:45,396 | INFO | app.core.analyzer | PasswordAnalyzer initialized with all components.
+2026-07-10 01:38:45,449 | WARNING | app.ui.app_ui | Background image not found at: D:\01-Password-Strength-Checker\assets\image\images.jpg
+2026-07-10 01:38:45,507 | INFO | app.ui.app_ui | AppUI initialized successfully.
+2026-07-10 01:39:23,294 | INFO | __main__ | Application closed.
+2026-07-10 01:39:28,025 | INFO | __main__ | Starting Password Strength Checker application...
+2026-07-10 01:39:28,095 | INFO | app.core.analyzer | PasswordAnalyzer initialized with all components.
+2026-07-10 01:39:28,647 | INFO | app.ui.app_ui | AppUI initialized successfully.
+2026-07-10 01:41:02,471 | INFO | __main__ | Application closed.
+2026-07-10 01:41:07,488 | INFO | __main__ | Starting Password Strength Checker application...
+2026-07-10 01:41:07,571 | INFO | app.core.analyzer | PasswordAnalyzer initialized with all components.
+2026-07-10 01:41:07,726 | INFO | app.ui.app_ui | AppUI initialized successfully.
+2026-07-10 01:42:53,443 | INFO | __main__ | Application closed.
+2026-07-10 01:43:06,342 | INFO | __main__ | Starting Password Strength Checker application...
+2026-07-10 01:43:06,462 | INFO | app.core.analyzer | PasswordAnalyzer initialized with all components.
+2026-07-10 01:43:06,629 | INFO | app.ui.app_ui | AppUI initialized successfully.
+2026-07-10 01:43:11,837 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:43:12,654 | WARNING | app.security.pwned_passwords | Password found in a data breach 1858 times.
+2026-07-10 01:43:12,657 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:43:12,694 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:43:13,432 | WARNING | app.security.pwned_passwords | Password found in a data breach 466 times.
+2026-07-10 01:43:13,435 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:43:13,444 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:43:14,139 | WARNING | app.security.pwned_passwords | Password found in a data breach 3 times.
+2026-07-10 01:43:14,141 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:43:14,151 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:43:14,838 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:43:14,841 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:43:14,847 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:43:15,685 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:43:15,687 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:43:15,692 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:43:16,299 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:43:16,300 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:43:16,309 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:43:16,878 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:43:16,879 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:43:16,886 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:43:17,446 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:43:17,448 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:43:17,457 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:43:18,185 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:43:18,188 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:43:18,196 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:43:18,950 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:43:18,952 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:43:18,960 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:43:19,526 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:43:19,528 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:43:19,579 | INFO | __main__ | Application closed.
+2026-07-10 01:45:19,186 | INFO | __main__ | Starting Password Strength Checker application...
+2026-07-10 01:45:19,323 | INFO | app.core.analyzer | PasswordAnalyzer initialized with all components.
+2026-07-10 01:45:19,462 | INFO | app.ui.app_ui | AppUI initialized successfully.
+2026-07-10 01:45:27,790 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:45:29,012 | WARNING | app.security.pwned_passwords | Password found in a data breach 245212 times.
+2026-07-10 01:45:29,016 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:45:29,034 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:45:30,007 | WARNING | app.security.pwned_passwords | Password found in a data breach 16857 times.
+2026-07-10 01:45:30,008 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:45:30,014 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:45:30,932 | WARNING | app.security.pwned_passwords | Password found in a data breach 20379 times.
+2026-07-10 01:45:30,934 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:45:34,700 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:45:35,406 | WARNING | app.security.pwned_passwords | Password found in a data breach 16857 times.
+2026-07-10 01:45:35,409 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:45:35,422 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:45:36,071 | WARNING | app.security.pwned_passwords | Password found in a data breach 245212 times.
+2026-07-10 01:45:36,072 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:45:38,485 | INFO | __main__ | Application closed.
+2026-07-10 01:47:59,453 | INFO | __main__ | Starting Password Strength Checker application...
+2026-07-10 01:47:59,514 | INFO | app.core.analyzer | PasswordAnalyzer initialized with all components.
+2026-07-10 01:47:59,615 | INFO | app.ui.app_ui | AppUI initialized successfully.
+2026-07-10 01:48:22,168 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:22,871 | WARNING | app.security.pwned_passwords | Password found in a data breach 199298 times.
+2026-07-10 01:48:22,874 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:24,534 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:25,013 | WARNING | app.security.pwned_passwords | Password found in a data breach 5496 times.
+2026-07-10 01:48:25,014 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:27,142 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:27,581 | WARNING | app.security.pwned_passwords | Password found in a data breach 199298 times.
+2026-07-10 01:48:27,582 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:29,899 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:30,313 | WARNING | app.security.pwned_passwords | Password found in a data breach 185249 times.
+2026-07-10 01:48:30,315 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:30,322 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:30,701 | WARNING | app.security.pwned_passwords | Password found in a data breach 185249 times.
+2026-07-10 01:48:30,702 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:32,139 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:32,575 | WARNING | app.security.pwned_passwords | Password found in a data breach 15539 times.
+2026-07-10 01:48:32,576 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:33,740 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:34,328 | WARNING | app.security.pwned_passwords | Password found in a data breach 1357 times.
+2026-07-10 01:48:34,329 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:34,901 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:35,327 | WARNING | app.security.pwned_passwords | Password found in a data breach 167 times.
+2026-07-10 01:48:35,329 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:35,362 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:35,898 | WARNING | app.security.pwned_passwords | Password found in a data breach 236 times.
+2026-07-10 01:48:35,902 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:37,912 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:38,455 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:48:38,460 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:38,473 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:38,932 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:48:38,936 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:40,813 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:41,568 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:48:41,569 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:41,575 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:42,482 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:48:42,486 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:42,506 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:43,116 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:48:43,120 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:43,128 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:43,674 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:48:43,675 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:45,208 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:45,769 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:48:45,770 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:45,792 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:46,195 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:48:46,196 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:48,590 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:49,235 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:48:49,237 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:49,242 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:49,768 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:48:49,770 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:49,778 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:50,790 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:48:50,791 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:52,355 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:52,868 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:48:52,870 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:52,875 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:53,240 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:48:53,243 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:55,672 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:56,094 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:48:56,096 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:56,128 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:56,658 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:48:56,660 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:48:58,084 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:48:58,537 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:48:58,540 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:49:02,923 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:49:03,547 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:49:03,551 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:49:03,562 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:49:03,942 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:49:03,943 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:49:03,950 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:49:04,394 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:49:04,397 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:49:04,417 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:49:04,889 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:49:04,890 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:49:04,897 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:49:05,274 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:49:05,277 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:49:05,284 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:49:05,707 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:49:05,708 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:49:05,716 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:49:06,104 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:49:06,106 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:49:06,113 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:49:06,543 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:49:06,546 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:49:06,561 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:49:06,990 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:49:06,992 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:49:07,007 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:49:07,463 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:49:07,464 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:49:07,471 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:49:07,945 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:49:07,949 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:49:07,967 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:49:08,354 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:49:08,355 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:49:08,361 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:49:08,735 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:49:08,737 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:49:08,745 | INFO | app.core.checker | Password validation completed.
+2026-07-10 01:49:09,184 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 01:49:09,186 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 01:49:15,193 | INFO | __main__ | Application closed.
+2026-07-10 13:17:11,352 | INFO | __main__ | Starting Password Strength Checker application...
+2026-07-10 13:17:12,151 | INFO | __main__ | Starting Password Strength Checker application...
+2026-07-10 13:17:15,361 | INFO | app.core.analyzer | PasswordAnalyzer initialized with all components.
+2026-07-10 13:17:15,451 | INFO | app.core.analyzer | PasswordAnalyzer initialized with all components.
+2026-07-10 13:17:15,685 | INFO | app.ui.app_ui | AppUI initialized successfully.
+2026-07-10 13:17:16,800 | INFO | app.ui.app_ui | AppUI initialized successfully.
+2026-07-10 13:17:20,143 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:17:20,922 | WARNING | app.security.pwned_passwords | Password found in a data breach 185249 times.
+2026-07-10 13:17:20,925 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:17:20,998 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:17:21,400 | INFO | __main__ | Starting Password Strength Checker application...
+2026-07-10 13:17:21,599 | WARNING | app.security.pwned_passwords | Password found in a data breach 185249 times.
+2026-07-10 13:17:21,601 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:17:21,612 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:17:22,006 | INFO | app.core.analyzer | PasswordAnalyzer initialized with all components.
+2026-07-10 13:17:22,240 | WARNING | app.security.pwned_passwords | Password found in a data breach 15539 times.
+2026-07-10 13:17:22,243 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:17:22,269 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:17:22,537 | INFO | app.ui.app_ui | AppUI initialized successfully.
+2026-07-10 13:17:22,959 | WARNING | app.security.pwned_passwords | Password found in a data breach 1357 times.
+2026-07-10 13:17:22,962 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:17:23,431 | INFO | __main__ | Starting Password Strength Checker application...
+2026-07-10 13:17:23,668 | INFO | app.core.analyzer | PasswordAnalyzer initialized with all components.
+2026-07-10 13:17:23,972 | INFO | app.ui.app_ui | AppUI initialized successfully.
+2026-07-10 13:17:27,327 | INFO | __main__ | Starting Password Strength Checker application...
+2026-07-10 13:17:28,707 | INFO | app.core.analyzer | PasswordAnalyzer initialized with all components.
+2026-07-10 13:17:29,246 | INFO | app.ui.app_ui | AppUI initialized successfully.
+2026-07-10 13:17:36,407 | INFO | __main__ | Application closed.
+2026-07-10 13:17:37,341 | INFO | __main__ | Application closed.
+2026-07-10 13:17:38,185 | INFO | __main__ | Application closed.
+2026-07-10 13:17:46,583 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:17:48,828 | WARNING | app.security.pwned_passwords | Password found in a data breach 383 times.
+2026-07-10 13:17:48,831 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:17:48,845 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:17:49,794 | WARNING | app.security.pwned_passwords | Password found in a data breach 5 times.
+2026-07-10 13:17:49,797 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:17:51,106 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:17:51,745 | WARNING | app.security.pwned_passwords | Password found in a data breach 1 times.
+2026-07-10 13:17:51,747 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:17:51,803 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:17:52,398 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 13:17:52,401 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:17:52,409 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:17:53,013 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 13:17:53,015 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:17:53,029 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:17:53,633 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 13:17:53,635 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:17:53,645 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:17:54,302 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 13:17:54,304 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:17:54,314 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:17:54,932 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 13:17:54,935 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:17:54,946 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:17:55,560 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 13:17:55,562 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:17:55,572 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:17:56,203 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 13:17:56,205 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:17:59,412 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:18:00,000 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 13:18:00,002 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:18:00,011 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:18:00,602 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 13:18:00,604 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:18:02,768 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:18:03,376 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 13:18:03,378 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:18:03,389 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:18:04,006 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 13:18:04,008 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:18:04,017 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:18:04,643 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 13:18:04,645 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:18:08,713 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:18:09,190 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 13:18:09,192 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:18:09,249 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:18:09,744 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 13:18:09,747 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:18:09,755 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:18:10,227 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 13:18:10,228 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:18:10,234 | INFO | app.core.checker | Password validation completed.
+2026-07-10 13:18:10,657 | INFO | app.security.pwned_passwords | Password not found in any known data breaches.
+2026-07-10 13:18:10,658 | ERROR | app.core.analyzer | An error occurred during password analysis: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "d:\01-Password-Strength-Checker\app\core\analyzer.py", line 79, in analyze
+    analysis_result.pwned_count = pwned_count
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PasswordAnalysisResult' object has no attribute 'pwned_count' and no __dict__ for setting new attributes
+2026-07-10 13:18:18,273 | INFO | __main__ | Application closed.

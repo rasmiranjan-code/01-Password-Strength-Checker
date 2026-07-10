@@ -162,6 +162,10 @@ TIP_REMOVE_COMMON_PATTERN: Final[str] = (
     "Avoid common words or predictable patterns."
 )
 
+TIP_AVOID_PWNED: Final[str] = (
+    "This password has appeared in a data breach. Do not use it."
+)
+
 TIP_PASSWORD_EXCELLENT: Final[str] = (
     "Excellent password. No obvious weaknesses detected."
 )

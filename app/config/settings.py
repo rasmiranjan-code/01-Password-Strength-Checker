@@ -31,6 +31,8 @@ class Settings:
 
     ASSETS_DIR: Path = PROJECT_ROOT / "assets"
 
+    IMAGE_DIR: Path = ASSETS_DIR / "image"
+
     DATA_DIR: Path = PROJECT_ROOT / "data"
 
     DOCS_DIR: Path = PROJECT_ROOT / "docs"
@@ -46,6 +48,8 @@ class Settings:
     # ==========================================================
     # Data Files
     # ==========================================================
+
+    IMAGE_BACKGROUND: Path = IMAGE_DIR / "images.jpg"
 
     COMMON_PASSWORD_FILE: Path = DATA_DIR / "common_passwords.txt"
 
